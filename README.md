@@ -12,7 +12,7 @@ After analyzing the results, we found that data augmentation was the most effect
 ## Results:
 
 ### Challenge 1:
-![image](https://github.com/rucha97/few-shot-learning-PneumoniaMNIST/assets/22785512/79fd0f99-bcb1-40e6-a7ca-7cdebd8decb4)
+![image](https://github.com/rucha97/few-shot-learning-PneumoniaMNIST/assets/22785512/12dc88d2-04cf-4a50-a5a3-b9a90365f133)
 
 ### Challenge 2:
 ![image](https://github.com/rucha97/few-shot-learning-PneumoniaMNIST/assets/22785512/114d0e84-8e8c-4232-9beb-2d4146d89f77)
